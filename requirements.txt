@@ -1,4 +1,3 @@
-pandas
-yfinance
-altair
+google-cloud-texttospeech
+io
 streamlit
